@@ -1,4 +1,3 @@
-
-rich
-agak rich
-pajero
+1.rich jua boleh
+2.agak rich boleh
+3.pajero
